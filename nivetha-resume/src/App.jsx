@@ -33,7 +33,7 @@ function App() {
           <li><strong>Web Technologies:</strong> HTML5, CSS3</li>
           <li><strong>Frameworks:</strong> Node.js, Express.js</li>
           <li><strong>Database:</strong> MySQL</li>
-          <li>REST API</li>
+          <li>RESTFUL API</li>
           <li>GitHub</li>
           <li>OOPs</li>
         </ul>
